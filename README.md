@@ -1,7 +1,14 @@
 # 💫 About Me:
 <img align="right" height="130" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
- Hi, I'm Maddox, Aspiring Data analyst in the making with a background in Computer Applications. I love building scalable and efficient systems, and I’m constantly exploring new technologies in Cloud, Data, and Frontend.<br><br> Currently learning Data Science,AWS, Docker and DevOps to sharpen my Data Analytics and cloud Computing skills.<br>Working on personal projects related to cloud automation and data engineering.<br> Proficient in Python, MySQL, and Git, with an ongoing interest in Frontend development.<br> Aiming to contribute to open-source projects and collaborate on innovative Data Analytic solutions.<br>Feel free to explore my repositories and connect with me!
+Hi there, I'm K Jishnuraj 👋 I'm a passionate and enthusiastic fresher exploring the world of technology and data. My journey in tech started with a strong interest in both development and analytics, and I have honed my skills in multiple areas to begin building impactful projects.
+
+🚀 Skills: 💡 Power BI: Building insightful dashboards and reports to visualize data. 🛠️ SQL: Querying, managing, and analyzing data efficiently. 🌐 HTML & Front-End Development: Designing and developing clean, responsive web interfaces. 🐍 Python.
+
+🌱 Currently Learning: 📚 Deeper dive into JavaScript for enhancing front-end capabilities. 🐍 Exploring more advanced Data Analysis techniques with Python.
+
+📫 How to reach me: ✉️ Email- jishnuraj.19l014@gmail.com
+
  
 
 ## 🌐 Socials:
